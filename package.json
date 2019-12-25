@@ -21,7 +21,10 @@
     "node": ">=6.4.0"
   },
   "devDependencies": {
+    "@types/toposort": "^2.0.3",
+    "@types/ws": "^6.0.4",
     "docdash": "^0.4.0",
-    "jsdoc": "^3.6.3"
+    "jsdoc": "^3.6.3",
+    "typescript": "^3.7.4"
   }
 }
