@@ -15,7 +15,7 @@ echo Linking everything...
 
 echo.
 call npm link
-cd client
+cd src/client
 call npm link
 
 echo.

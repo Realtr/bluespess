@@ -2,7 +2,7 @@
   "name": "bluespess",
   "version": "0.3.0",
   "description": "2d spacemen engine on node",
-  "main": "index.js",
+  "main": "dist/index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/bluespess/bluespess.git"

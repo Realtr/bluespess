@@ -9,7 +9,7 @@ npm install -g gulp-cli
 print Gulp installed.
 print Linking everything...
 npm link
-cd client
+cd src/client
 npm link
 print Everything has been linked.
 print Setup complete.
